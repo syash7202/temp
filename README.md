@@ -1,6 +1,6 @@
 <div align="center">
   
-![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Meticulous%20|%20Problem%20Solver%20|%20Results-oriented&descAlignY=55&descAlign=62)
 
 
   ## 📫 Get in Touch
