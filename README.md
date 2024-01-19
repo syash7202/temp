@@ -3,6 +3,8 @@
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Meticulous%20|%20Problem%20Solver%20|%20Results-oriented&descAlignY=55&descAlign=62)
 
 
+  <div align="left">
+  
   ## 📫 Get in Touch
 
   If you have any questions or just want to say hi, feel free to reach out!
@@ -15,12 +17,26 @@
   Karma](https://img.shields.io/reddit/user-karma/combined/syash7202?label=karma&logo=reddit)](https://reddit.com/u/syash7202)
   <br>
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nik.singh710@gmail.com)
+  </div>
+
+  <div aglin="justify"> 
+    
+## 👨‍💻 About Me
+
+I'm a tech enthusiast from India, and I love tinkering with different tools and technologies. My favorite OS is Arch
+Linux 🐧, and I'm an avid user of NeoVim for coding ✍️. I enjoy writing shell scripts 🐚, and I have advanced knowledge
+in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free time, I love playing music 🎸 and video games 🎮.
+  </div>
 
 </div>
 
 ## 🏆 [Github Trophies](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=syash7202&theme=dark_dimmed&row=1&column=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![heelo](https://pagespeed-insights.herokuapp.com?url=https://syash7202.github.io&theme=dark)
+
+![hteslo](https://pagespeed-insights.herokuapp.com?url=https://ankurparihar.github.io)
 
 ## 👨‍💻 About Me
 
@@ -39,7 +55,7 @@ stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syash7202&
 I'm always working on something new, and you can find all my repositories below. Here are a few you can check:
 
 [![My GitHub
-Repositories](https://img.shields.io/badge/My%20GitHub%20Repositories-See%20them%20all-black?style=for-the-badge&logo=github)](https://github.com/syash7202?tab=repositories)
+Repositories](https://img.shields.io/badge/My%20GitHub%20Repositories-See%20them%20all-black?style=for-the-badge&logo=github)](https://github.com/syash7202?tab=repositories&)
 
 [![TicTacToe-Ai](https://github-readme-stats.vercel.app/api/pin/?username=syash7202&repo=TicTacToe-Ai&theme=dark&border_color=#fff&border_radius=10&hidden_border=true)](https://github.com/syash7202/TicTacToe-Ai)
 [![Rock_Paper_Scissor](https://github-readme-stats.vercel.app/api/pin/?username=syash7202&repo=Rock_Paper_Scissor&theme=dark&border_color=#fff&border_radius=10)](https://github.com/syash7202/Rock_Paper_Scissor)
