@@ -1,11 +1,81 @@
+
+
+
+
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=syash7202&show_icons=true&theme=merko&border_color=599200">
+
+
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syash7202)](https://github.com/syash7202/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
+
+
+
+
+
+
+
+
+
+
   
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yash%20Sharma&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Meticulous%20|%20Problem%20Solver%20|%20Results-oriented&descAlignY=55&descAlign=62)
 
+</div>
 
-  <div align="left">
-  
-  ## 📫 Get in Touch
+
+
+## 🏆 [Github Trophies](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=syash7202&theme=juicyfresh&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15t&title=Followers,Experience,Stars)](https://github.com/syash7202/github-profile-trophy)
+
+
+
+
+## 👨‍💻 Coder's Chronicle
+
+I am a passionate and results-driven individual with a background in software development, cloud computing, and DevOps. As a Software Development Engineer, I thrive on creating innovative solutions and transforming ideas into robust, scalable applications. My journey in technology has equipped me with a strong foundation in programming languages like JavaScript, Node.js, and Python, along with expertise in cloud platforms such as AWS. I am dedicated to continuous learning, staying current with industry trends, and exploring emerging technologies.
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=omni)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+
+
+## 📫 Get in Touch
 
   If you have any questions or just want to say hi, feel free to reach out!
 
@@ -19,30 +89,12 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nik.singh710@gmail.com)
   </div>
 
-  <div aglin="justify"> 
-    
-## 👨‍💻 About Me
 
-I'm a tech enthusiast from India, and I love tinkering with different tools and technologies. My favorite OS is Arch
-Linux 🐧, and I'm an avid user of NeoVim for coding ✍️. I enjoy writing shell scripts 🐚, and I have advanced knowledge
-in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free time, I love playing music 🎸 and video games 🎮.
-  </div>
 
-</div>
 
-## 🏆 [Github Trophies](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=syash7202&theme=dark_dimmed&row=1&column=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![heelo](https://pagespeed-insights.herokuapp.com?url=https://syash7202.github.io&theme=dark)
 
-![hteslo](https://pagespeed-insights.herokuapp.com?url=https://ankurparihar.github.io)
-
-## 👨‍💻 About Me
-
-I'm a tech enthusiast from India, and I love tinkering with different tools and technologies. My favorite OS is Arch
-Linux 🐧, and I'm an avid user of NeoVim for coding ✍️. I enjoy writing shell scripts 🐚, and I have advanced knowledge
-in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free time, I love playing music 🎸 and video games 🎮.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syash7202&show_icons=true&theme=dark&hidden_border=true)
 ![Github
